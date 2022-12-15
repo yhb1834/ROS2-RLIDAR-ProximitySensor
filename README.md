@@ -1,1 +1,1 @@
-# ROS2-RLIDAR-ProximitySensor
+# ROS2-RPLIDAR-ProximitySensor
